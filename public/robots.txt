@@ -1,0 +1,3 @@
+Sitemap: https://the-cozy-corner-by-belandres.vercel.app/sitemap.xml
+User-agent: *
+Disallow:
